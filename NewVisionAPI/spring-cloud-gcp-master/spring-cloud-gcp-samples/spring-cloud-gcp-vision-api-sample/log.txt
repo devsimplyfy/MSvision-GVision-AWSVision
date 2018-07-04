@@ -1,0 +1,213 @@
+INFO    2018-05-26 12:13:08,532 [http-nio-8080-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-26 14:12:32,085 [http-nio-8080-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-26 14:18:35,952 [http-nio-8080-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:16:25,359 [http-nio-8080-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:20:16,640 [http-nio-8080-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:23:41,756 [http-nio-8080-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:30:24,381 [http-nio-8080-exec-7] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-13 14:49:28,081 [http-nio-8080-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-13 14:49:34,476 [http-nio-8080-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-06-13 14:49:34,477 [http-nio-8080-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 15:29:15,193 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 15:29:33,502 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 15:29:33,503 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 15:30:37,204 [http-nio-8085-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 15:30:38,598 [http-nio-8085-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 15:30:38,600 [http-nio-8085-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 15:43:18,575 [http-nio-8085-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 15:43:19,992 [http-nio-8085-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 15:43:20,002 [http-nio-8085-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 15:49:09,706 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 15:49:16,880 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 15:49:16,880 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 15:50:29,749 [http-nio-8085-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 15:50:32,120 [http-nio-8085-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 15:50:32,121 [http-nio-8085-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 16:06:11,145 [http-nio-8085-exec-5] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 16:06:12,934 [http-nio-8085-exec-5] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 16:06:12,937 [http-nio-8085-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 16:06:23,792 [http-nio-8085-exec-6] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 16:06:24,825 [http-nio-8085-exec-6] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 16:06:24,826 [http-nio-8085-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:19,915 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:25,395 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:25,396 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:25,691 [http-nio-8085-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:26,398 [http-nio-8085-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:26,399 [http-nio-8085-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:26,416 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:27,554 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:27,558 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:27,572 [http-nio-8085-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:28,781 [http-nio-8085-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:28,789 [http-nio-8085-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:28,805 [http-nio-8085-exec-5] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:29,765 [http-nio-8085-exec-5] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:29,767 [http-nio-8085-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:29,790 [http-nio-8085-exec-6] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:30,931 [http-nio-8085-exec-6] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:30,932 [http-nio-8085-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:30,950 [http-nio-8085-exec-7] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:32,128 [http-nio-8085-exec-7] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:32,130 [http-nio-8085-exec-7] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:32,154 [http-nio-8085-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:33,284 [http-nio-8085-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:33,286 [http-nio-8085-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:33,299 [http-nio-8085-exec-9] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:34,386 [http-nio-8085-exec-9] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:34,387 [http-nio-8085-exec-9] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-15 17:21:34,400 [http-nio-8085-exec-10] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-15 17:21:35,499 [http-nio-8085-exec-10] com.example.VisionController  - Output Converted into json
+INFO    2018-06-15 17:21:35,500 [http-nio-8085-exec-10] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-21 10:06:15,775 [http-nio-8085-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-21 10:06:19,755 [http-nio-8085-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-06-21 10:06:19,756 [http-nio-8085-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-26 11:34:23,570 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:35:10,106 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-06-26 11:35:14,681 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-26 11:44:47,402 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:44:49,185 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageResponse Has an Error
+INFO    2018-06-26 11:45:10,209 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:45:12,008 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageResponse Has an Error
+INFO    2018-06-26 11:47:08,169 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:50:38,247 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:51:30,119 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-06-26 11:51:31,499 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-26 11:53:42,855 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:53:43,206 [http-nio-8085-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-26 11:53:45,354 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-06-26 11:53:45,354 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-26 11:53:45,356 [http-nio-8085-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-06-26 11:53:45,357 [http-nio-8085-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-29 10:37:18,248 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-29 10:37:23,813 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-06-29 10:37:23,814 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-30 09:24:34,383 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-30 09:24:37,697 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-06-30 09:24:37,698 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-30 09:25:12,123 [http-nio-8085-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-30 09:25:13,180 [http-nio-8085-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-06-30 09:25:13,181 [http-nio-8085-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-30 09:39:02,830 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-30 09:39:05,566 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-06-30 09:39:05,567 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-30 09:43:17,734 [http-nio-8085-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-30 09:43:19,602 [http-nio-8085-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-06-30 09:43:19,602 [http-nio-8085-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-30 09:44:09,280 [http-nio-8085-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-30 09:44:10,674 [http-nio-8085-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-06-30 09:44:10,675 [http-nio-8085-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-06-30 09:49:42,215 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-06-30 09:49:45,729 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-06-30 09:49:45,730 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 15:40:39,265 [http-nio-8085-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 15:41:33,381 [http-nio-8085-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 15:41:33,382 [http-nio-8085-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:40:13,346 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:40:16,561 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:40:16,562 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:57:47,534 [http-nio-8085-exec-7] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:57:50,620 [http-nio-8085-exec-7] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:57:50,628 [http-nio-8085-exec-7] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:57:50,641 [http-nio-8085-exec-6] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:57:51,624 [http-nio-8085-exec-6] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:57:51,627 [http-nio-8085-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:57:51,642 [http-nio-8085-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:57:53,129 [http-nio-8085-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:57:53,142 [http-nio-8085-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:57:53,170 [http-nio-8085-exec-9] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:57:53,934 [http-nio-8085-exec-9] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:57:53,935 [http-nio-8085-exec-9] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:59:10,744 [http-nio-8085-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:59:13,077 [http-nio-8085-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:59:13,079 [http-nio-8085-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:59:13,081 [http-nio-8085-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:59:14,739 [http-nio-8085-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:59:14,741 [http-nio-8085-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:59:14,752 [http-nio-8085-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:59:17,045 [http-nio-8085-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:59:17,056 [http-nio-8085-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:59:17,072 [http-nio-8085-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:59:18,905 [http-nio-8085-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:59:18,908 [http-nio-8085-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:59:18,927 [http-nio-8085-exec-5] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:59:20,411 [http-nio-8085-exec-5] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:59:20,414 [http-nio-8085-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 16:59:20,418 [http-nio-8085-exec-7] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 16:59:21,947 [http-nio-8085-exec-7] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 16:59:21,950 [http-nio-8085-exec-7] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-02 17:35:47,318 [http-nio-8088-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-02 17:35:51,731 [http-nio-8088-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-07-02 17:35:51,743 [http-nio-8088-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 10:21:50,216 [http-nio-8088-exec-5] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 10:21:55,897 [http-nio-8088-exec-5] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 10:21:55,903 [http-nio-8088-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 10:21:56,161 [http-nio-8088-exec-6] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 10:21:56,909 [http-nio-8088-exec-6] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 10:21:56,918 [http-nio-8088-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 10:21:56,934 [http-nio-8088-exec-7] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 10:21:58,391 [http-nio-8088-exec-7] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 10:21:58,392 [http-nio-8088-exec-7] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 10:21:58,398 [http-nio-8088-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 10:21:59,565 [http-nio-8088-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 10:21:59,568 [http-nio-8088-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 10:21:59,580 [http-nio-8088-exec-9] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 10:22:00,736 [http-nio-8088-exec-9] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 10:22:00,750 [http-nio-8088-exec-9] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:41,663 [http-nio-8088-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:44,121 [http-nio-8088-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:44,127 [http-nio-8088-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:44,191 [http-nio-8088-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:44,931 [http-nio-8088-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:44,932 [http-nio-8088-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:44,938 [http-nio-8088-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:46,006 [http-nio-8088-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:46,008 [http-nio-8088-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:46,022 [http-nio-8088-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:47,045 [http-nio-8088-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:47,046 [http-nio-8088-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:47,055 [http-nio-8088-exec-5] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:48,199 [http-nio-8088-exec-5] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:48,201 [http-nio-8088-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:48,205 [http-nio-8088-exec-6] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:49,046 [http-nio-8088-exec-6] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:49,047 [http-nio-8088-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:49,060 [http-nio-8088-exec-8] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:50,029 [http-nio-8088-exec-8] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:50,031 [http-nio-8088-exec-8] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:50,045 [http-nio-8088-exec-7] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:50,943 [http-nio-8088-exec-7] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:50,944 [http-nio-8088-exec-7] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-03 15:56:50,950 [http-nio-8088-exec-9] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-03 15:56:52,309 [http-nio-8088-exec-9] com.example.VisionController  - Output Converted into json
+INFO    2018-07-03 15:56:52,311 [http-nio-8088-exec-9] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 15:30:23,882 [http-nio-8088-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 15:30:26,917 [http-nio-8088-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 15:30:26,931 [http-nio-8088-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 15:30:27,162 [http-nio-8088-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 15:30:28,315 [http-nio-8088-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 15:30:28,324 [http-nio-8088-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 15:30:28,366 [http-nio-8088-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 15:30:29,436 [http-nio-8088-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 15:30:29,438 [http-nio-8088-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 15:30:29,496 [http-nio-8088-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 15:30:30,643 [http-nio-8088-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 15:30:30,645 [http-nio-8088-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 16:11:18,294 [http-nio-8088-exec-1] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 16:11:20,497 [http-nio-8088-exec-1] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 16:11:20,508 [http-nio-8088-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 16:11:20,635 [http-nio-8088-exec-2] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 16:11:21,176 [http-nio-8088-exec-2] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 16:11:21,176 [http-nio-8088-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 16:11:21,210 [http-nio-8088-exec-3] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 16:11:21,921 [http-nio-8088-exec-3] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 16:11:21,924 [http-nio-8088-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 16:11:21,970 [http-nio-8088-exec-4] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 16:11:22,988 [http-nio-8088-exec-4] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 16:11:22,990 [http-nio-8088-exec-4] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 16:11:23,027 [http-nio-8088-exec-5] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 16:11:23,985 [http-nio-8088-exec-5] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 16:11:23,986 [http-nio-8088-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-07-04 16:11:24,009 [http-nio-8088-exec-6] com.example.VisionController  - AnnotateImageRequest is builded
+INFO    2018-07-04 16:11:25,071 [http-nio-8088-exec-6] com.example.VisionController  - Output Converted into json
+INFO    2018-07-04 16:11:25,073 [http-nio-8088-exec-6] com.example.VisionController  - VisionAPI Builded
