@@ -1,5 +1,5 @@
 Step 1: 
-First download the project from Github.(repository: MSvision-GVision-AWSVision)
+First download the project from Github.(https://github.com/devsimplyfy/MSvision-GVision-AWSVision/tree/master/NewVisionAPI)
 
 Step 2: 
 Open NewVisionAPI Folder and Find spring-cloud-gcp-vision-api-sample project from that bundle and import that project in spring-tool
