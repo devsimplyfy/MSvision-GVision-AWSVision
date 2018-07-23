@@ -12,8 +12,8 @@
 		<checkstyle.skip>true</checkstyle.skip>
 
 	</properties>
-	<artifactId>spring-cloud-gcp-vision-api-sample</artifactId>
-	<name>Spring Cloud GCP Vision API Sample</name>
+	<artifactId>spring-aws-microsoft-vision-api-sample</artifactId>
+	<name>Spring AWS and Microsoft Vision API Sample</name>
 
 	<dependencies>
 		<dependency>
@@ -82,15 +82,6 @@
 			<artifactId>commons-io</artifactId>
 			<version>1.3.2</version>
 		</dependency>
-
-
-
-
-
-
-
-
-
 
 	</dependencies>
 
